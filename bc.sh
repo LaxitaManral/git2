@@ -1,6 +1,10 @@
 #!/bin/bash
 #CREATING A BACKUP WITH ROTATION
 #CREATING A FUNCTION
+<< help
+this is multi line comment for this 
+
+help
 
 function display_usage {
 	echo "usage: $0 path of sourcedir"
